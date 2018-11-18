@@ -1,0 +1,64 @@
+.wrapper {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 $xs-size;
+}
+
+.language {
+ margin: $m-size 0;
+}
+
+.language__definition {
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.language__definition__word {
+  padding-right: $xs-size;
+}
+
+.language__definition__link {
+  font-weight: 300;
+}
+
+.typewriter {
+  overflow: hidden;
+  /* Ensures the content is not revealed until the animation */
+  border-right: .1em solid transparent;
+  /* The typwriter cursor */
+  white-space: nowrap;
+  /* Keeps the content on a single line */
+  /*margin: 0 auto;*/
+  /* Gives that scrolling effect as the typing happens */
+  letter-spacing: .15em;
+  /* Adjust as needed */
+  animation: typing 2.4s steps(40, end), blink-caret .6s step-end 4;
+}
+
+/* The typing effect */
+
+@keyframes typing {
+  from {
+    width: 0
+  }
+  to {
+    width: 100%
+  }
+}
+
+/* The typewriter cursor effect */
+
+@keyframes blink-caret {
+  from,
+  to {
+    border-color: transparent
+  }
+  50% {
+    border-color: #fff;
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "justES",
+  "version": "0.3",
+  "author": "Mateusz Magda",
+  "manifest_version": 2,
+  "browser_action": {
+     "default_icon": "images/icon-48.png",
+     "default_title": "justES"
+  },
+  "icons": { "16": "images/icon-16.png",
+           "48": "images/icon-48.png",
+          "128": "images/icon-128.png" },
+  "description": "Learn spanish, english and polish at once! Your chrome will present you new words and their usage each time you open a new tab.",
+  "chrome_url_overrides": {
+    "newtab": "./public/index.html"
+  },
+  "content_security_policy": "script-src 'self' 'unsafe-eval'; object-src 'self'"
+}

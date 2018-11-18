@@ -1,0 +1,101 @@
+[
+    {
+      "id": 1,
+      "wordES": "De media jornada",
+      "sentenceES": "Yo trabajo de media jornada.",
+      "wordEN": "Part-time",
+      "sentenceEN": "I work part-time.",
+      "wordPL": "Na pół etatu",
+      "sentencePL": "Pracuję na pół etatu."
+    },
+    {
+      "id": 2,
+      "wordES": "La pronunciación",
+      "sentenceES": "¿Lo pronuncio bien?",
+      "wordEN": "Pronunciation",
+      "sentenceEN": "Do I pronounce it correctly?",
+      "wordPL": "Wymowa",
+      "sentencePL": "Czy wymawiam to dobrze?"
+    },
+    {
+      "id": 3,
+      "wordES": "La paloma",
+    "sentenceES": "Una paloma blanca es el símbolo de paz.",
+      "wordEN": "Pigeon, dove",
+      "sentenceEN": "White dove is a symbol of peace.",
+      "wordPL": "Gołąb",
+      "sentencePL": "Biały gołąb jest symbolem pokoju."
+    },
+    {
+      "id": 4,
+      "wordES": "El negro",
+      "sentenceES": "",
+      "wordEN": "Black",
+      "sentenceEN": "",
+      "wordPL": "Czarny",
+      "sentencePL": ""
+    },
+    {
+      "id": 5,
+      "wordES": "Agredir",
+      "sentenceES": "El agredido fue empujado por las escaleras por llevar simbología nazi.",
+      "wordEN": "Assault",
+      "sentenceEN": "The assaulted was pushed down the stairs for wearing nazi symbols.",
+      "wordPL": "Atakować, napadać",
+      "sentencePL": "Zaatakowany został zepchnięty ze schodów za noszenie symboli nazistowskich."
+    },
+    {
+      "id": 6,
+      "wordES": "A medias",
+      "sentenceES": "Entiendo a medias.",
+      "wordEN": "A half",
+      "sentenceEN": "I understand it half right.",
+      "wordPL": "W połowie",
+      "sentencePL": "Rozumiem w połowie."
+    },
+    {
+      "id": 7,
+      "wordES": "Menearse",
+      "sentenceES": "me meneo como gelatina.",
+      "wordEN": "Trząść się",
+      "sentenceEN": "Trzęsę się jak galareta.",
+      "wordPL": "To jiggle",
+      "sentencePL": "I jiggle like gello."
+    },
+    {
+      "id": 8,
+      "wordES": "Oculto",
+      "sentenceES": "Este mensaje está oculto.",
+      "wordEN": "Hidden",
+      "sentenceEN": "This message is hidden. ",
+      "wordPL": "Ukryty",
+      "sentencePL": "Ta wiadomość jest ukryta."
+    },
+    {
+      "id": 9,
+      "wordES": "Enlace",
+      "sentenceES": "Sigue este enlace para descargar el contenido.",
+      "wordEN": "Link",
+      "sentenceEN": "Follow this link to download the content. ",
+      "wordPL": "Link, odnośnik",
+      "sentencePL": "Naciśnij ten link żeby sciągnąć zawartość."
+    },
+    {
+      "id": 10,
+      "wordES": "Marcha atrás",
+      "sentenceES": "Ya no hay marcha atrás.",
+      "wordEN": "Turn back",
+      "sentenceEN": "There is no turning back. ",
+      "wordPL": "Odwrót, zawracać",
+      "sentencePL": "Już nie ma odwrotu."
+    },
+    {
+      "id": 11,
+      "wordES": "Las secuelas",
+      "sentenceES": "Las sequelas emocionales del conflicto armado.",
+      "wordEN": "Consequences",
+      "sentenceEN": "Emotional consequences of the armed conflict.",
+      "wordPL": "Następstwo",
+      "sentencePL": "Następstwa emocjonalne konfliktu zbrojnego."
+    }
+  ]
