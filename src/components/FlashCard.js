@@ -24,6 +24,7 @@ export default class FlashCard extends React.Component {
         this.setState({
           word
         });
+        console.log(Math.floor(Math.random() * words.length));
         const newBackground = word.id % 5;
         console.log(newBackground);
         document.body.style = `background: ${this.state.backgroundColors[newBackground]};`;

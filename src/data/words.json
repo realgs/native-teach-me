@@ -97,5 +97,14 @@
       "sentenceEN": "Emotional consequences of the armed conflict.",
       "wordPL": "Następstwo",
       "sentencePL": "Następstwa emocjonalne konfliktu zbrojnego."
+    },
+    {
+      "id": 12,
+      "wordES": "Pequeñoburgués",
+      "sentenceES": "La persona sin aspiraciones puede ser llamada pequeñoburguésa o de la pequeña burguesía.",
+      "wordEN": "Petit-bourgeois",
+      "sentenceEN": "A person with no aspirations can be called petit-bourgeois.",
+      "wordPL": "Drobnomieszczański",
+      "sentencePL": "Osobę bez aspiracji można nazwać drobnomieszczańską."
     }
   ]
