@@ -3,5 +3,12 @@ import ReactDOM from 'react-dom';
 import 'normalize.css/normalize.css'
 import './styles/styles.scss';
 import FlashCard from './components/FlashCard';
+import Parser from './components/Parser';
 
-ReactDOM.render(<FlashCard />, document.getElementById('app'));
+const jsx = (
+  <div>
+    <FlashCard />
+  </div>
+);
+
+ReactDOM.render(jsx, document.getElementById('app'));

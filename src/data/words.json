@@ -1,110 +1,209 @@
 [
-    {
-      "id": 1,
-      "wordES": "De media jornada",
-      "sentenceES": "Yo trabajo de media jornada.",
-      "wordEN": "Part-time",
-      "sentenceEN": "I work part-time.",
-      "wordPL": "Na pół etatu",
-      "sentencePL": "Pracuję na pół etatu."
-    },
-    {
-      "id": 2,
-      "wordES": "La pronunciación",
-      "sentenceES": "¿Lo pronuncio bien?",
-      "wordEN": "Pronunciation",
-      "sentenceEN": "Do I pronounce it correctly?",
-      "wordPL": "Wymowa",
-      "sentencePL": "Czy wymawiam to dobrze?"
-    },
-    {
-      "id": 3,
-      "wordES": "La paloma",
+  {
+    "id": 1,
+    "wordES": "De media jornada",
+    "sentenceES": "Yo trabajo de media jornada.",
+    "wordEN": "Part-time",
+    "sentenceEN": "I work part-time.",
+    "wordPL": "Na pół etatu",
+    "sentencePL": "Pracuję na pół etatu."
+  },
+  {
+    "id": 2,
+    "wordES": "La pronunciación",
+    "sentenceES": "¿Lo pronuncio bien?",
+    "wordEN": "Pronunciation",
+    "sentenceEN": "Do I pronounce it correctly?",
+    "wordPL": "Wymowa",
+    "sentencePL": "Czy wymawiam to dobrze?"
+  },
+  {
+    "id": 3,
+    "wordES": "La paloma",
     "sentenceES": "Una paloma blanca es el símbolo de paz.",
-      "wordEN": "Pigeon, dove",
-      "sentenceEN": "White dove is a symbol of peace.",
-      "wordPL": "Gołąb",
-      "sentencePL": "Biały gołąb jest symbolem pokoju."
-    },
-    {
-      "id": 4,
-      "wordES": "El negro",
-      "sentenceES": "",
-      "wordEN": "Black",
-      "sentenceEN": "",
-      "wordPL": "Czarny",
-      "sentencePL": ""
-    },
-    {
-      "id": 5,
-      "wordES": "Agredir",
-      "sentenceES": "El agredido fue empujado por las escaleras por llevar simbología nazi.",
-      "wordEN": "Assault",
-      "sentenceEN": "The assaulted was pushed down the stairs for wearing nazi symbols.",
-      "wordPL": "Atakować, napadać",
-      "sentencePL": "Zaatakowany został zepchnięty ze schodów za noszenie symboli nazistowskich."
-    },
-    {
-      "id": 6,
-      "wordES": "A medias",
-      "sentenceES": "Entiendo a medias.",
-      "wordEN": "A half",
-      "sentenceEN": "I understand it half right.",
-      "wordPL": "W połowie",
-      "sentencePL": "Rozumiem w połowie."
-    },
-    {
-      "id": 7,
-      "wordES": "Menearse",
-      "sentenceES": "me meneo como gelatina.",
-      "wordEN": "Trząść się",
-      "sentenceEN": "Trzęsę się jak galareta.",
-      "wordPL": "To jiggle",
-      "sentencePL": "I jiggle like gello."
-    },
-    {
-      "id": 8,
-      "wordES": "Oculto",
-      "sentenceES": "Este mensaje está oculto.",
-      "wordEN": "Hidden",
-      "sentenceEN": "This message is hidden. ",
-      "wordPL": "Ukryty",
-      "sentencePL": "Ta wiadomość jest ukryta."
-    },
-    {
-      "id": 9,
-      "wordES": "Enlace",
-      "sentenceES": "Sigue este enlace para descargar el contenido.",
-      "wordEN": "Link",
-      "sentenceEN": "Follow this link to download the content. ",
-      "wordPL": "Link, odnośnik",
-      "sentencePL": "Naciśnij ten link żeby sciągnąć zawartość."
-    },
-    {
-      "id": 10,
-      "wordES": "Marcha atrás",
-      "sentenceES": "Ya no hay marcha atrás.",
-      "wordEN": "Turn back",
-      "sentenceEN": "There is no turning back. ",
-      "wordPL": "Odwrót, zawracać",
-      "sentencePL": "Już nie ma odwrotu."
-    },
-    {
-      "id": 11,
-      "wordES": "Las secuelas",
-      "sentenceES": "Las sequelas emocionales del conflicto armado.",
-      "wordEN": "Consequences",
-      "sentenceEN": "Emotional consequences of the armed conflict.",
-      "wordPL": "Następstwo",
-      "sentencePL": "Następstwa emocjonalne konfliktu zbrojnego."
-    },
-    {
-      "id": 12,
-      "wordES": "Pequeñoburgués",
-      "sentenceES": "La persona sin aspiraciones puede ser llamada pequeñoburguésa o de la pequeña burguesía.",
-      "wordEN": "Petit-bourgeois",
-      "sentenceEN": "A person with no aspirations can be called petit-bourgeois.",
-      "wordPL": "Drobnomieszczański",
-      "sentencePL": "Osobę bez aspiracji można nazwać drobnomieszczańską."
-    }
-  ]
+    "wordEN": "Pigeon, dove",
+    "sentenceEN": "White dove is a symbol of peace.",
+    "wordPL": "Gołąb",
+    "sentencePL": "Biały gołąb jest symbolem pokoju."
+  },
+  {
+    "id": 4,
+    "wordES": "El negro",
+    "sentenceES": "El negro es un color más oscuro de todos.",
+    "wordEN": "Black",
+    "sentenceEN": "Black is the darkest of all colors.",
+    "wordPL": "Czarny",
+    "sentencePL": "Czarny jest najciemniejszym ze wszystkich kolorów."
+  },
+  {
+    "id": 5,
+    "wordES": "Agredir",
+    "sentenceES": "El agredido fue empujado por las escaleras por llevar simbología nazi.",
+    "wordEN": "Assault",
+    "sentenceEN": "The assaulted was pushed down the stairs for wearing nazi symbols.",
+    "wordPL": "Atakować, napadać",
+    "sentencePL": "Zaatakowany został zepchnięty ze schodów za noszenie symboli nazistowskich."
+  },
+  {
+    "id": 6,
+    "wordES": "A medias",
+    "sentenceES": "Entiendo a medias.",
+    "wordEN": "A half",
+    "sentenceEN": "I understand it half right.",
+    "wordPL": "W połowie",
+    "sentencePL": "Rozumiem w połowie."
+  },
+  {
+    "id": 7,
+    "wordES": "Menearse",
+    "sentenceES": "me meneo como gelatina.",
+    "wordEN": "To jiggle",
+    "sentenceEN": "I jiggle like gello.",
+    "wordPL": "Trząść się",
+    "sentencePL": "Trzęsę się jak galareta."
+  },
+  {
+    "id": 8,
+    "wordES": "Oculto",
+    "sentenceES": "Este mensaje está oculto.",
+    "wordEN": "Hidden",
+    "sentenceEN": "This message is hidden. ",
+    "wordPL": "Ukryty",
+    "sentencePL": "Ta wiadomość jest ukryta."
+  },
+  {
+    "id": 9,
+    "wordES": "El enlace",
+    "sentenceES": "Sigue este enlace para descargar el contenido.",
+    "wordEN": "Link",
+    "sentenceEN": "Follow this link to download the content. ",
+    "wordPL": "Link, odnośnik",
+    "sentencePL": "Naciśnij ten link żeby sciągnąć zawartość."
+  },
+  {
+    "id": 10,
+    "wordES": "Marcha atrás",
+    "sentenceES": "Ya no hay marcha atrás.",
+    "wordEN": "Turn back",
+    "sentenceEN": "There is no turning back. ",
+    "wordPL": "Odwrót, zawracać",
+    "sentencePL": "Już nie ma odwrotu."
+  },
+  {
+    "id": 11,
+    "wordES": "Las secuelas",
+    "sentenceES": "Las sequelas emocionales del conflicto armado son terribles.",
+    "wordEN": "Consequences",
+    "sentenceEN": "Emotional consequences of the armed conflict are terrible.",
+    "wordPL": "Następstwa",
+    "sentencePL": "Następstwa emocjonalne konfliktu zbrojnego są okropne."
+  },
+  {
+    "id": 12,
+    "wordES": "Pequeñoburgués",
+    "sentenceES": "La persona sin aspiraciones puede ser llamada pequeñoburguésa o de la pequeña burguesía.",
+    "wordEN": "Petit-bourgeois",
+    "sentenceEN": "A person with no aspirations can be called petit-bourgeois.",
+    "wordPL": "Drobnomieszczański",
+    "sentencePL": "Osobę bez aspiracji można nazwać drobnomieszczańską."
+  },
+  {
+    "id": 13,
+    "wordES": "Confabularse con alguien",
+    "sentenceES": "Un cartel de los bancos se confabuló para mantener bajos los costes.",
+    "wordPL": "Być z kimś w zmowie",
+    "sentencePL": "Kartel banków zmówił się w celu utrzymania niskich kosztów.",
+    "wordEN": "Collude",
+    "sentenceEN": "A cartel of banks colluded to keep the costs down."
+  },
+  {
+    "id": 14,
+    "wordES": "Alboroto",
+    "sentenceES": "Esto causó un alboroto en la ciudad.",
+    "wordPL": "Zamęt, zamieszki",
+    "sentencePL": "To spowodowało niepokój w mieście.",
+    "wordEN": "Disturbance",
+    "sentenceEN": "This caused disturbance in the city."
+  },
+  {
+    "id": 15,
+    "wordES": "Presumir",
+    "sentenceES": "Lo hizo solo para presumir.",
+    "wordPL": "Robić na pokaz",
+    "sentencePL": "Zrobiła to tylko na pokaz.",
+    "wordEN": "To show off",
+    "sentenceEN": "She did it just to show off."
+  },
+  {
+    "id": 16,
+    "wordES": "Baboso",
+    "sentenceES": "Es baboso porque quiere ascender.",
+    "wordPL": "Płaszczący się, służalczy, obleśny",
+    "sentencePL": "Płaszczy się bo chce dostać awans.",
+    "wordEN": "Slimy",
+    "sentenceEN": "He’s slimy because he wants to get the promotion."
+  },
+  {
+    "id": 17,
+    "wordES": "Molestar",
+    "sentenceES": "¡No molestar!",
+    "wordPL": "Przeszkadzać",
+    "sentencePL": "Nie przeszkadzać!",
+    "wordEN": "Disturb",
+    "sentenceEN": "Do not disturb!"
+  },
+  {
+    "id": 18,
+    "wordES": "La racha",
+    "sentenceES": "Fuertes rachas de viento lo rompieron.",
+    "wordPL": "Podmuch wiatru",
+    "sentencePL": "Silne podmuchy wiatru to zniszczyły.",
+    "wordEN": "Draught",
+    "sentenceEN": "Strong draughts damaged it."
+  },
+  {
+    "id": 19,
+    "wordES": "La racha buena",
+    "sentenceES": "Fun una buena racha.",
+    "wordPL": "Dobra passa",
+    "sentencePL": "To była dobra passa.",
+    "wordEN": "Streak",
+    "sentenceEN": "It was a winning streak."
+  },
+  {
+    "id": 20,
+    "wordES": "La racha mala",
+    "sentenceES": "Tengo mala racha toda la semana.",
+    "wordPL": "Niefart , pech",
+    "sentencePL": "Mam pecha cały tydzień.",
+    "wordEN": "Bad break",
+    "sentenceEN": "I have a bad break all week long."
+  },
+  {
+    "id": 21,
+    "wordES": "Atacar, atentar",
+    "sentenceES": "Le atacaron de repente y cogieron su movil.",
+    "wordPL": "Napaść na kogoś",
+    "sentencePL": "Napadli go nagle i zabrali jego telefon.",
+    "wordEN": "Attack, assault",
+    "sentenceEN": "They attacked him suddenly and took his phone."
+  },
+  {
+    "id": 22,
+    "wordES": "El manitas",
+    "sentenceES": "Mi vecino es un manitas, el sabe reparar todo.",
+    "wordPL": "Złota rączka",
+    "sentencePL": "Mój sąsiad to złota rączka, wie jak naprawić wszystko.",
+    "wordEN": "Handyman",
+    "sentenceEN": "My neighbour is a handyman, he knows how to repair anything."
+  },
+  {
+    "id": 23,
+    "wordES": "La burla",
+    "sentenceES": "Burlas aparte, hablamos en serio.",
+    "wordPL": "Kpina, żart",
+    "sentencePL": "Żarty na bok, rozmawiamy poważnie.",
+    "wordEN": "Joke",
+    "sentenceEN": "Joking apart, we talk seriously."
+  }
+]
