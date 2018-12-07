@@ -9,6 +9,9 @@ export default class Parses extends React.Component {
     this.addMissingDot = this.addMissingDot.bind(this);
     this.capitalize = this.capitalize.bind(this);
     this.state = {
+      spanishOrder = 0,
+      polishOrder = 2,
+      englishOrder = 1,
       possibleEndings: ['?', '!', '.'],
       currentId: undefined,
       words: `
@@ -47,9 +50,9 @@ la burla (burlas aparte, hablamos en serio) - kpina, żart (żarty na bok, rozma
     const lines = this.state.words.trim().split('\n');
     const output = lines.map((line) => {
       const language = line.split('-');
-      const spanishChunk = language[0].trim().split(/[()]/);
-      const polishChunk = language[1].trim().split(/[()]/);
-      const englishChunk = language[2].trim().split(/[()]/);
+      const spanishChunk = language[spanishOrder].trim().split(/[()]/);
+      const polishChunk = language[polishOrder].trim().split(/[()]/);
+      const englishChunk = language[englishOrder].trim().split(/[()]/);
 
       const wordES = spanishChunk[0].trim();
       const sentenceES = spanishChunk[1];
