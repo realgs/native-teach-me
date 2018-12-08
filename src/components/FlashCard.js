@@ -20,42 +20,6 @@ export default class FlashCard extends React.Component {
   componentDidMount() {
     try {
       if (words) {
-        // let currentWord = Math.floor(Math.random() * words.length);
-        // let counter = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0,]
-        // for (let i = 0; i < 300; i++) {
-        //   let newWord = Math.floor(Math.random() * words.length);
-          // while (currentWord == newWord) {
-          //   newWord = Math.floor(Math.random() * words.length);
-          // }
-          //currentWord = newWord;
-          // switch ( currentWord ) {
-          //   case 0: counter[0]++;
-          //   break;
-          //   case 1: counter[1]++;
-          //   break;
-          //   case 2: counter[2]++;
-          //   break;
-          //   case 3: counter[3]++;
-          //   break;
-          //   case 4: counter[4]++;
-          //   break;
-          //   case 5: counter[5]++;
-          //   break;
-          //   case 6: counter[6]++;
-          //   break;
-          //   case 7: counter[7]++;
-          //   break;
-          //   case 8: counter[8]++;
-          //   break;
-          //   case 9: counter[9]++;
-          //   break;
-          //   case 10: counter[10]++;
-          //   break;
-          //   case 11: counter[11]++;
-          //   break;
-          // }
-        //}
-        // console.log(counter);
         const word = words[Math.floor(Math.random() * words.length)];
 
         this.setState({
@@ -71,8 +35,10 @@ export default class FlashCard extends React.Component {
   render() {
     return (
       <div className="wrapper" >
-        <a target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + '&tbm=isch'}>Look for images</a>
         <div className="content">
+          <div className="images">
+            <a target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + '&tbm=isch'}>Look for images</a>
+          </div>
           <div className="language">
             <div className="language__definition">
               <h1 className="language__definition__word typewriter">

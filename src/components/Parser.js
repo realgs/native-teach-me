@@ -9,15 +9,18 @@ export default class Parses extends React.Component {
     this.addMissingDot = this.addMissingDot.bind(this);
     this.capitalize = this.capitalize.bind(this);
     this.state = {
-      spanishOrder = 0,
-      polishOrder = 2,
-      englishOrder = 1,
+      spanishOrder: 0,
+      polishOrder: 2,
+      englishOrder: 1,
       possibleEndings: ['?', '!', '.'],
       currentId: undefined,
       words: `
-     brzuszki	,sit—ups	,abdominales
-pompki	,push-ups	,las flexiónes
-podciągnięcia	,pull-ups	,las dominadas
+        wspinaczka	-climbing	-la escalada
+        chodzić po górach	-to hike	-hacer senderismo
+        alpinizm / himalaizm	-mountaineering	-alpinismo / himalaismo
+        wspinaczka sportowa	-sport climbing	-escalada deportiva
+        czasówka	-speed climbing	-escalada de velocidad
+        solówka	-free solo climbing	-solo integral
       `
     };
   }
@@ -44,9 +47,9 @@ podciągnięcia	,pull-ups	,las dominadas
     const lines = this.state.words.trim().split('\n');
     const output = lines.map((line) => {
       const language = line.split('-');
-      const spanishChunk = language[spanishOrder].trim().split(/[()]/).replace(/_/g,'-');
-      const polishChunk = language[polishOrder].trim().split(/[()]/).replace(/_/g,'-');
-      const englishChunk = language[englishOrder].trim().split(/[()]/).replace(/_/g,'-');
+      const spanishChunk = language[this.state.spanishOrder].replace(/_/g, '-').trim().split(/[()]/);
+      const polishChunk = language[this.state.polishOrder].replace(/_/g, '-').trim().split(/[()]/);
+      const englishChunk = language[this.state.englishOrder].replace(/_/g, '-').trim().split(/[()]/);
 
       const wordES = spanishChunk[0].trim();
       const sentenceES = spanishChunk[1];
