@@ -15,15 +15,9 @@ export default class Parses extends React.Component {
       possibleEndings: ['?', '!', '.'],
       currentId: undefined,
       words: `
-     presumir (lo hizo solo para presumir) - wystawiać na pokaz (zrobiła to tylko na pokaz) - to show off (she did it just to show off)
-baboso (es baboso porque quiere ascender) - płaszczący się, służalczy, obleśny (płaszczy się bo chce dostać awans) - slimy (he’s slimy because he wants to get the promotion)
-molestar (¡no molestar!) - przeszkadzać (nie przeszkadzać!) - disturb (do not disturb!)
-la racha (fuertes rachas de viento lo rompieron) - podmuch wiatru (silne podmuchy wiatru to zniszczyły) - draught (strong draughts damaged it)
-la racha buena (fun una buena racha) - dobra passa (to była dobra passa) - streak (it was a winning streak)
-la racha mala (tengo mala racha toda la semana) - niefart , pech (mam pecha cały tydzień) - bad break (I have a bad break all week long)
-atacar, atentar (le atacaron de repente y cogieron su movil) - napaść na kogoś (napadli go nagle i zabrali jego telefon) - attack, assault (they attacked him suddenly and took his phone)
-manitas  (mi vecino es un manitas, el sabe reparar todo) - złota rączka (mój sąsiad to złota rączka, wie jak naprawić wszystko) - handyman (my neighbour is a handyman, he knows how to repair anything)
-la burla (burlas aparte, hablamos en serio) - kpina, żart (żarty na bok, rozmawiamy poważnie) - joke (joking apart, we talk seriously)
+     brzuszki	,sit—ups	,abdominales
+pompki	,push-ups	,las flexiónes
+podciągnięcia	,pull-ups	,las dominadas
       `
     };
   }
@@ -50,9 +44,9 @@ la burla (burlas aparte, hablamos en serio) - kpina, żart (żarty na bok, rozma
     const lines = this.state.words.trim().split('\n');
     const output = lines.map((line) => {
       const language = line.split('-');
-      const spanishChunk = language[spanishOrder].trim().split(/[()]/);
-      const polishChunk = language[polishOrder].trim().split(/[()]/);
-      const englishChunk = language[englishOrder].trim().split(/[()]/);
+      const spanishChunk = language[spanishOrder].trim().split(/[()]/).replace(/_/g,'-');
+      const polishChunk = language[polishOrder].trim().split(/[()]/).replace(/_/g,'-');
+      const englishChunk = language[englishOrder].trim().split(/[()]/).replace(/_/g,'-');
 
       const wordES = spanishChunk[0].trim();
       const sentenceES = spanishChunk[1];
