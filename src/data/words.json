@@ -13,19 +13,19 @@
   },
   {
     "id": 3,
-    "wordES": "Alpinismo / himalaismo",
+    "wordES": "El alpinismo / himalaismo",
     "wordPL": "Alpinizm / himalaizm",
     "wordEN": "Mountaineering"
   },
   {
     "id": 4,
-    "wordES": "Escalada deportiva",
+    "wordES": "La sscalada deportiva",
     "wordPL": "Wspinaczka sportowa",
     "wordEN": "Sport climbing"
   },
   {
     "id": 5,
-    "wordES": "Escalada de velocidad",
+    "wordES": "La escalada de velocidad",
     "wordPL": "Czasówka",
     "wordEN": "Speed climbing"
   },
@@ -61,19 +61,19 @@
   },
   {
     "id": 11,
-    "wordES": "Escalada en bloque",
+    "wordES": "Escalada en bloque / Búlder",
     "wordPL": "Baldy",
     "wordEN": "Bouldering"
   },
   {
     "id": 12,
-    "wordES": "Zona de escalada",
+    "wordES": "La zona de escalada",
     "wordPL": "Rejon wspinaczkowy",
     "wordEN": "Climbing area"
   },
   {
     "id": 13,
-    "wordES": "Vía de escalada",
+    "wordES": "La vía de escalada",
     "wordPL": "Droga wspinaczkowa",
     "wordEN": "Climbing route"
   },
@@ -85,7 +85,7 @@
   },
   {
     "id": 15,
-    "wordES": "Pies de gato",
+    "wordES": "Los pies de gato",
     "wordPL": "Buty wspinaczkowe",
     "wordEN": "Climbing shoes"
   },
@@ -188,18 +188,17 @@
   {
     "id": 32,
     "wordES": "El HMS",
-    "wordPL": "Karabinek zakręcany",
-    "sentencePL": "HMS.",
+    "wordPL": "Karabinek zakręcany / HMS",
     "wordEN": "Locking carabiner"
   },
   {
     "id": 33,
     "wordES": "Magnesio",
-    "sentenceES": "Liquido o en polvo.",
+    "sentenceES": "Quieres magnesio liquido o en polvo.",
     "wordPL": "Magnezja",
-    "sentencePL": "W płynie lub proszku.",
+    "sentencePL": "Chcesz magnezję w płynie czy proszku.",
     "wordEN": "Chalk",
-    "sentenceEN": "Liquid or powder."
+    "sentenceEN": "Do you want the chalk liquid or in powder."
   },
   {
     "id": 34,
@@ -335,9 +334,9 @@
   },
   {
     "id": 56,
-    "wordES": "Pitch climbing",
+    "wordES": "Escalada de varios largos",
     "wordPL": "Wspinaczka wielowyciągowa",
-    "wordEN": "Multi"
+    "wordEN": "Multi-pitch climbing"
   },
   {
     "id": 57,
@@ -365,8 +364,7 @@
   },
   {
     "id": 61,
-    "wordES": "Alejes",
-    "sentenceES": "Tiene aleje.",
+    "wordES": "Alejes / tiene aleje",
     "wordPL": "Dalekie przeloty",
     "wordEN": "Long distances"
   },
@@ -386,7 +384,7 @@
     "id": 64,
     "wordES": "Calentarse",
     "wordPL": "Rozgrzewać się",
-    "wordEN": "To worm up"
+    "wordEN": "To warm up"
   },
   {
     "id": 65,
@@ -428,7 +426,7 @@
     "id": 71,
     "wordES": "El campus",
     "wordPL": "Kampus",
-    "wordEN": "Cambus board"
+    "wordEN": "Campus board"
   },
   {
     "id": 72,
@@ -535,7 +533,7 @@
   {
     "id": 89,
     "wordES": "Sobado",
-    "wordPL": "Śliski",
+    "wordPL": "Śliski / wychodzony",
     "wordEN": "Slippery"
   },
   {
@@ -658,11 +656,11 @@
   {
     "id": 108,
     "wordES": "El corazón / dedo medio",
-    "sentenceES": "El dedo corazón solemos utilizar para expresar emociones pero vale mejor para escalar.",
+    "sentenceES": "El dedo corazón solemos utilizar para expresar emociones pero vale mejor para escalar;)",
     "wordPL": "Palec środkowy",
-    "sentencePL": "Często używamy środkowego palca do wyrażania emocji ale lepiej nadaje się do wspinaczki.",
+    "sentencePL": "Często używamy środkowego palca do wyrażania emocji ale lepiej nadaje się do wspinaczki;)",
     "wordEN": "Middle finger",
-    "sentenceEN": "We often use the middle finger to express the emotions but it works better in climbing."
+    "sentenceEN": "We often use the middle finger to express the emotions but it works better in climbing;)"
   },
   {
     "id": 109,
@@ -705,7 +703,7 @@
     "wordES": "Antebrazo",
     "sentenceES": "No tires tanto de antebrazos.",
     "wordPL": "Przedramię",
-    "sentencePL": "Nie ciągnij tak z przedramion/rąk.",
+    "sentencePL": "Nie ciągnij tak z przedramion.",
     "wordEN": "Forearm",
     "sentenceEN": "Don’t use your forearms so much."
   },
@@ -721,7 +719,7 @@
   {
     "id": 116,
     "wordES": "Chapar",
-    "sentenceES": "Chápalo, que ya estas demasiado alto!",
+    "sentenceES": "¡Chapalo, que ya estas demasiado alto!",
     "wordPL": "Wpinać się",
     "sentencePL": "Wepnij się, już jesteś za wysoko!",
     "wordEN": "Clip in",
@@ -733,8 +731,8 @@
     "sentenceES": "Pillame, que ya estoy agotado / cansado.",
     "wordPL": "Złapać, dać blok",
     "sentencePL": "Złap mnie bo już jestem zmęczony.",
-    "wordEN": "English here",
-    "sentenceEN": "?Catch me, I’m really tired."
+    "wordEN": "Take",
+    "sentenceEN": "Take me, I’m already tired."
   },
   {
     "id": 118,
@@ -761,7 +759,7 @@
     "wordPL": "Klama",
     "sentencePL": "Klama jest idealnym typem chwytu na resta.",
     "wordEN": "Jug, bucket",
-    "sentenceEN": "A jug a type of hold that is perfect to rest on."
+    "sentenceEN": "The jug is a perfect type of hold to rest on."
   },
   {
     "id": 121,
@@ -875,7 +873,7 @@
     "wordPL": "Klinowanie kolana",
     "sentencePL": "Klinowanie kolana pomaga znacząco na przewieszeniach.",
     "wordEN": "Kneebar, egyptian",
-    "sentenceEN": "Kneebar is crucial in overhangs."
+    "sentenceEN": "Kneebar is helps a lot in overhangs."
   },
   {
     "id": 137,
@@ -902,7 +900,7 @@
     "wordPL": "Robić flagę",
     "sentencePL": "Musisz zrobić flagę by balansować masą ciała.",
     "wordEN": "To flag",
-    "sentenceEN": "You have to flag in order to balance your body weight."
+    "sentenceEN": "You have to use flag in order to balance your body weight."
   },
   {
     "id": 141,
@@ -948,9 +946,9 @@
   },
   {
     "id": 148,
-    "wordES": "Lancar",
-    "wordPL": "Dyno",
-    "wordEN": "Dyno / double"
+    "wordES": "Lanzar",
+    "wordPL": "Skoczyć / rzucić się",
+    "wordEN": "Dyno / double-dyno"
   },
   {
     "id": 149,
@@ -963,5 +961,38 @@
     "wordES": "Yaniro",
     "wordPL": "Pozycja czwórka",
     "wordEN": "Figure of four"
+  },
+  {
+    "id": 151,
+    "wordES": "La placa",
+    "sentenceES": "En las partes de placa tienes que fiar en adherencia.",
+    "wordPL": "Połóg",
+    "sentencePL": "Na połogu musisz zaufać tarciu.",
+    "wordEN": "Slab",
+    "sentenceEN": "On the slab parts you have to trust the friction."
+  },
+  {
+    "id": 152,
+    "wordES": "Estoy seguro",
+    "wordPL": "Mam auto",
+    "wordEN": "Off belay"
+  },
+  {
+    "id": 153,
+    "wordES": "A vista",
+    "wordPL": "Sajtem / sightem",
+    "wordEN": "Onsight"
+  },
+  {
+    "id": 154,
+    "wordES": "Desescalar / destrepar",
+    "wordPL": "Schodzić",
+    "wordEN": "Downclimb"
+  },
+  {
+    "id": 155,
+    "wordES": "Granito",
+    "wordPL": "Granit",
+    "wordEN": "Granite"
   }
 ]

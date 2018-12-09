@@ -8,7 +8,6 @@ import Parser from './components/Parser';
 const jsx = (
   <div>
     <FlashCard />
-    <Parser />
   </div>
 );
 
