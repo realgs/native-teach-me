@@ -4,15 +4,15 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 0 $xs-size;
+  padding: $xs-size;
 }
 
-.images {
+.google__images {
   text-align: center;
 }
 
 .language {
- margin: $m-size 0;
+  margin: $m-size 0;
 }
 
 .language__definition {
@@ -23,10 +23,24 @@
 }
 
 .language__definition__word {
-  padding-right: $xs-size;
+  font-size: $l-size;
+  font-weight: 400;
 }
 
 .language__definition__link {
+  font-size: $m-size;
+  font-weight: 300;
+}
+
+.flag {
+  max-width: 40px;
+  height: auto;
+  margin-right: $s-size;
+}
+
+.language__sentence {
+  max-width: 100%;
+  font-size: $m-size;
   font-weight: 300;
 }
 
