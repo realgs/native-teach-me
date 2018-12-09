@@ -1,209 +1,631 @@
 [
   {
     "id": 1,
-    "wordES": "De media jornada",
-    "sentenceES": "Yo trabajo de media jornada.",
-    "wordEN": "Part-time",
-    "sentenceEN": "I work part-time.",
-    "wordPL": "Na pół etatu",
-    "sentencePL": "Pracuję na pół etatu."
+    "wordES": "La escalada",
+    "wordPL": "Wspinaczka",
+    "wordEN": "Climbing"
   },
   {
     "id": 2,
-    "wordES": "La pronunciación",
-    "sentenceES": "¿Lo pronuncio bien?",
-    "wordEN": "Pronunciation",
-    "sentenceEN": "Do I pronounce it correctly?",
-    "wordPL": "Wymowa",
-    "sentencePL": "Czy wymawiam to dobrze?"
+    "wordES": "Hacer senderismo",
+    "wordPL": "Chodzić po górach",
+    "wordEN": "To hike"
   },
   {
     "id": 3,
-    "wordES": "La paloma",
-    "sentenceES": "Una paloma blanca es el símbolo de paz.",
-    "wordEN": "Pigeon, dove",
-    "sentenceEN": "White dove is a symbol of peace.",
-    "wordPL": "Gołąb",
-    "sentencePL": "Biały gołąb jest symbolem pokoju."
+    "wordES": "Alpinismo / himalaismo",
+    "wordPL": "Alpinizm / himalaizm",
+    "wordEN": "Mountaineering"
   },
   {
     "id": 4,
-    "wordES": "El negro",
-    "sentenceES": "El negro es un color más oscuro de todos.",
-    "wordEN": "Black",
-    "sentenceEN": "Black is the darkest of all colors.",
-    "wordPL": "Czarny",
-    "sentencePL": "Czarny jest najciemniejszym ze wszystkich kolorów."
+    "wordES": "Escalada deportiva",
+    "wordPL": "Wspinaczka sportowa",
+    "wordEN": "Sport climbing"
   },
   {
     "id": 5,
-    "wordES": "Agredir",
-    "sentenceES": "El agredido fue empujado por las escaleras por llevar simbología nazi.",
-    "wordEN": "Assault",
-    "sentenceEN": "The assaulted was pushed down the stairs for wearing nazi symbols.",
-    "wordPL": "Atakować, napadać",
-    "sentencePL": "Zaatakowany został zepchnięty ze schodów za noszenie symboli nazistowskich."
+    "wordES": "Escalada de velocidad",
+    "wordPL": "Czasówka",
+    "wordEN": "Speed climbing"
   },
   {
     "id": 6,
-    "wordES": "A medias",
-    "sentenceES": "Entiendo a medias.",
-    "wordEN": "A half",
-    "sentenceEN": "I understand it half right.",
-    "wordPL": "W połowie",
-    "sentencePL": "Rozumiem w połowie."
+    "wordES": "Solo integral",
+    "wordPL": "Solówka",
+    "wordEN": "Free solo climbing"
   },
   {
     "id": 7,
-    "wordES": "Menearse",
-    "sentenceES": "me meneo como gelatina.",
-    "wordEN": "To jiggle",
-    "sentenceEN": "I jiggle like gello.",
-    "wordPL": "Trząść się",
-    "sentencePL": "Trzęsę się jak galareta."
+    "wordES": "El psicobloc",
+    "wordPL": "Wspinanie solo nad wodą",
+    "wordEN": "Deep Water Solo"
   },
   {
     "id": 8,
-    "wordES": "Oculto",
-    "sentenceES": "Este mensaje está oculto.",
-    "wordEN": "Hidden",
-    "sentenceEN": "This message is hidden. ",
-    "wordPL": "Ukryty",
-    "sentencePL": "Ta wiadomość jest ukryta."
+    "wordES": "Escalar",
+    "wordPL": "Wspinać się",
+    "wordEN": "To climb"
   },
   {
     "id": 9,
-    "wordES": "El enlace",
-    "sentenceES": "Sigue este enlace para descargar el contenido.",
-    "wordEN": "Link",
-    "sentenceEN": "Follow this link to download the content. ",
-    "wordPL": "Link, odnośnik",
-    "sentencePL": "Naciśnij ten link żeby sciągnąć zawartość."
+    "wordES": "La roca",
+    "wordPL": "Skała",
+    "wordEN": "Rock"
   },
   {
     "id": 10,
-    "wordES": "Marcha atrás",
-    "sentenceES": "Ya no hay marcha atrás.",
-    "wordEN": "Turn back",
-    "sentenceEN": "There is no turning back. ",
-    "wordPL": "Odwrót, zawracać",
-    "sentencePL": "Już nie ma odwrotu."
+    "wordES": "La montaña",
+    "wordPL": "Góra",
+    "wordEN": "Mountain"
   },
   {
     "id": 11,
-    "wordES": "Las secuelas",
-    "sentenceES": "Las sequelas emocionales del conflicto armado son terribles.",
-    "wordEN": "Consequences",
-    "sentenceEN": "Emotional consequences of the armed conflict are terrible.",
-    "wordPL": "Następstwa",
-    "sentencePL": "Następstwa emocjonalne konfliktu zbrojnego są okropne."
+    "wordES": "Escalada en bloque",
+    "wordPL": "Baldy",
+    "wordEN": "Bouldering"
   },
   {
     "id": 12,
-    "wordES": "Pequeñoburgués",
-    "sentenceES": "La persona sin aspiraciones puede ser llamada pequeñoburguésa o de la pequeña burguesía.",
-    "wordEN": "Petit-bourgeois",
-    "sentenceEN": "A person with no aspirations can be called petit-bourgeois.",
-    "wordPL": "Drobnomieszczański",
-    "sentencePL": "Osobę bez aspiracji można nazwać drobnomieszczańską."
+    "wordES": "Zona de escalada",
+    "wordPL": "Rejon wspinaczkowy",
+    "wordEN": "Climbing area"
   },
   {
     "id": 13,
-    "wordES": "Confabularse con alguien",
-    "sentenceES": "Un cartel de los bancos se confabuló para mantener bajos los costes.",
-    "wordPL": "Być z kimś w zmowie",
-    "sentencePL": "Kartel banków zmówił się w celu utrzymania niskich kosztów.",
-    "wordEN": "Collude",
-    "sentenceEN": "A cartel of banks colluded to keep the costs down."
+    "wordES": "Vía de escalada",
+    "wordPL": "Droga wspinaczkowa",
+    "wordEN": "Climbing route"
   },
   {
     "id": 14,
-    "wordES": "Alboroto",
-    "sentenceES": "Esto causó un alboroto en la ciudad.",
-    "wordPL": "Zamęt, zamieszki",
-    "sentencePL": "To spowodowało niepokój w mieście.",
-    "wordEN": "Disturbance",
-    "sentenceEN": "This caused disturbance in the city."
+    "wordES": "El rocódromo / roco",
+    "wordPL": "Ścianka wspinaczkowa",
+    "wordEN": "Indoor climbing wall"
   },
   {
     "id": 15,
-    "wordES": "Presumir",
-    "sentenceES": "Lo hizo solo para presumir.",
-    "wordPL": "Robić na pokaz",
-    "sentencePL": "Zrobiła to tylko na pokaz.",
-    "wordEN": "To show off",
-    "sentenceEN": "She did it just to show off."
+    "wordES": "Pies de gato",
+    "wordPL": "Buty wspinaczkowe",
+    "wordEN": "Climbing shoes"
   },
   {
     "id": 16,
-    "wordES": "Baboso",
-    "sentenceES": "Es baboso porque quiere ascender.",
-    "wordPL": "Płaszczący się, służalczy, obleśny",
-    "sentencePL": "Płaszczy się bo chce dostać awans.",
-    "wordEN": "Slimy",
-    "sentenceEN": "He’s slimy because he wants to get the promotion."
+    "wordES": "El asegurador",
+    "wordPL": "Przyrząd",
+    "wordEN": "Belay device"
   },
   {
     "id": 17,
-    "wordES": "Molestar",
-    "sentenceES": "¡No molestar!",
-    "wordPL": "Przeszkadzać",
-    "sentencePL": "Nie przeszkadzać!",
-    "wordEN": "Disturb",
-    "sentenceEN": "Do not disturb!"
+    "wordES": "La placa",
+    "wordPL": "Płytka",
+    "wordEN": "Stitch plate"
   },
   {
     "id": 18,
-    "wordES": "La racha",
-    "sentenceES": "Fuertes rachas de viento lo rompieron.",
-    "wordPL": "Podmuch wiatru",
-    "sentencePL": "Silne podmuchy wiatru to zniszczyły.",
-    "wordEN": "Draught",
-    "sentenceEN": "Strong draughts damaged it."
+    "wordES": "El ATC",
+    "wordPL": "Kubek",
+    "wordEN": "ATC"
   },
   {
     "id": 19,
-    "wordES": "La racha buena",
-    "sentenceES": "Fue una buena racha.",
-    "wordPL": "Dobra passa",
-    "sentencePL": "To była dobra passa.",
-    "wordEN": "Streak",
-    "sentenceEN": "It was a winning streak."
+    "wordES": "El Grigri / grillo",
+    "wordPL": "Grigri",
+    "wordEN": "Grigri"
   },
   {
     "id": 20,
-    "wordES": "La racha mala",
-    "sentenceES": "Tengo mala racha toda la semana.",
-    "wordPL": "Niefart , pech",
-    "sentencePL": "Mam pecha cały tydzień.",
-    "wordEN": "Bad break",
-    "sentenceEN": "I have a bad break all week long."
+    "wordES": "El arnés",
+    "wordPL": "Uprząż",
+    "wordEN": "Harness"
   },
   {
     "id": 21,
-    "wordES": "Atacar, atentar",
-    "sentenceES": "Le atacaron de repente y cogieron su movil.",
-    "wordPL": "Napaść na kogoś",
-    "sentencePL": "Napadli go nagle i zabrali jego telefon.",
-    "wordEN": "Attack, assault",
-    "sentenceEN": "They attacked him suddenly and took his phone."
+    "wordES": "Prusik",
+    "wordPL": "Prusik",
+    "wordEN": "Prusik"
   },
   {
     "id": 22,
-    "wordES": "El manitas",
-    "sentenceES": "Mi vecino es un manitas, el sabe reparar todo.",
-    "wordPL": "Złota rączka",
-    "sentencePL": "Mój sąsiad to złota rączka, wie jak naprawić wszystko.",
-    "wordEN": "Handyman",
-    "sentenceEN": "My neighbour is a handyman, he knows how to repair anything."
+    "wordES": "La cinta expréss / cinta",
+    "wordPL": "Ekspres",
+    "wordEN": "Quickdraw"
   },
   {
     "id": 23,
-    "wordES": "La burla",
-    "sentenceES": "Burlas aparte, hablamos en serio.",
-    "wordPL": "Kpina, żart",
-    "sentencePL": "Żarty na bok, rozmawiamy poważnie.",
-    "wordEN": "Joke",
-    "sentenceEN": "Joking apart, we talk seriously."
+    "wordES": "La cadena",
+    "wordPL": "Łańcuch",
+    "wordEN": "Anchor"
+  },
+  {
+    "id": 24,
+    "wordES": "La cuerda",
+    "wordPL": "Lina",
+    "wordEN": "Rope"
+  },
+  {
+    "id": 25,
+    "wordES": "La cinta",
+    "wordPL": "Taśma",
+    "wordEN": "Sling"
+  },
+  {
+    "id": 26,
+    "wordES": "El maillon",
+    "wordPL": "Mailon",
+    "wordEN": "Mailon"
+  },
+  {
+    "id": 27,
+    "wordES": "La cinta de vida",
+    "wordPL": "Auto",
+    "wordEN": "Lifeline"
+  },
+  {
+    "id": 28,
+    "wordES": "El anillo",
+    "wordPL": "Kolucho",
+    "wordEN": "Ring"
+  },
+  {
+    "id": 29,
+    "wordES": "El jumar",
+    "wordPL": "Małpa / płanieta",
+    "wordEN": "Jumar"
+  },
+  {
+    "id": 30,
+    "wordES": "El casco",
+    "wordPL": "Kask",
+    "wordEN": "Helmet"
+  },
+  {
+    "id": 31,
+    "wordES": "El mosquetón",
+    "wordPL": "Karabinek",
+    "wordEN": "Carabiner"
+  },
+  {
+    "id": 32,
+    "wordES": "El HMS",
+    "wordPL": "Karabinek zakręcany",
+    "sentencePL": "HMS.",
+    "wordEN": "Locking carabiner"
+  },
+  {
+    "id": 33,
+    "wordES": "Magnesio",
+    "sentenceES": "Liquido o en polvo.",
+    "wordPL": "Magnezja",
+    "sentencePL": "W płynie lub proszku.",
+    "wordEN": "Chalk",
+    "sentenceEN": "Liquid or powder."
+  },
+  {
+    "id": 34,
+    "wordES": "Bolsillo de magnesio",
+    "wordPL": "Woreczek na magnezję",
+    "wordEN": "Chalk bag"
+  },
+  {
+    "id": 35,
+    "wordES": "El ocho",
+    "wordPL": "Ósemka",
+    "wordEN": "Figure eight"
+  },
+  {
+    "id": 36,
+    "wordES": "Haz de guía",
+    "wordPL": "Ratowniczy",
+    "wordEN": "Bowline"
+  },
+  {
+    "id": 37,
+    "wordES": "Pescador doble",
+    "wordPL": "Podwójny zderzakowy",
+    "wordEN": "Double fisherman’s"
+  },
+  {
+    "id": 38,
+    "wordES": "El nudo",
+    "wordPL": "Węzeł",
+    "wordEN": "Knot"
+  },
+  {
+    "id": 39,
+    "wordES": "Hacer adherencia",
+    "wordPL": "Iść na tarcie",
+    "wordEN": "Smearing / to smear"
+  },
+  {
+    "id": 40,
+    "wordES": "Escaqueo / te escaqueas",
+    "wordPL": "Uciec na inną drogę",
+    "wordEN": "To escape"
+  },
+  {
+    "id": 41,
+    "wordES": "Hacer trampa",
+    "wordPL": "Oszukiwać",
+    "wordEN": "To cheat"
+  },
+  {
+    "id": 42,
+    "wordES": "Solo",
+    "wordPL": "Żywcowanie",
+    "wordEN": "Free"
+  },
+  {
+    "id": 43,
+    "wordES": "Portear",
+    "wordPL": "Spotować",
+    "wordEN": "To spot"
+  },
+  {
+    "id": 44,
+    "wordES": "El pegue",
+    "wordPL": "Podejście",
+    "wordEN": "Approach"
+  },
+  {
+    "id": 45,
+    "wordES": "El descenso",
+    "wordPL": "Zejście",
+    "wordEN": "Descend"
+  },
+  {
+    "id": 46,
+    "wordES": "Empotrar la rodilla",
+    "wordPL": "Klinować kolano",
+    "wordEN": "Make a kneebar"
+  },
+  {
+    "id": 47,
+    "wordES": "Empotrar la mano",
+    "wordPL": "Klinować rękę",
+    "wordEN": "Jam a hand"
+  },
+  {
+    "id": 48,
+    "wordES": "Ir de segundo",
+    "wordPL": "Iść na drugiego",
+    "wordEN": "To follow"
+  },
+  {
+    "id": 49,
+    "wordES": "Chapar",
+    "wordPL": "Wpinać się",
+    "wordEN": "Clip in"
+  },
+  {
+    "id": 50,
+    "wordES": "Asegurar",
+    "wordPL": "Askeurować",
+    "wordEN": "To belay"
+  },
+  {
+    "id": 51,
+    "wordES": "El rápel",
+    "wordPL": "Zjazd",
+    "wordEN": "Rappel"
+  },
+  {
+    "id": 52,
+    "wordES": "La reunión",
+    "wordPL": "Stanowisko",
+    "wordEN": "Anchor"
+  },
+  {
+    "id": 53,
+    "wordES": "Escalar de primero",
+    "wordPL": "Prowadzenie",
+    "wordEN": "Lead climbing"
+  },
+  {
+    "id": 54,
+    "wordES": "Ir de primero",
+    "wordPL": "Prowadzić",
+    "wordEN": "To lead"
+  },
+  {
+    "id": 55,
+    "wordES": "Abrir una vía",
+    "wordPL": "Wieszać ekspresy",
+    "wordEN": "Put the quickdraws on"
+  },
+  {
+    "id": 56,
+    "wordES": "Pitch climbing",
+    "wordPL": "Wspinaczka wielowyciągowa",
+    "wordEN": "Multi"
+  },
+  {
+    "id": 57,
+    "wordES": "El largo",
+    "wordPL": "Wyciąg",
+    "wordEN": "Pitch"
+  },
+  {
+    "id": 58,
+    "wordES": "Estar a dieta",
+    "wordPL": "Odchudzać się",
+    "wordEN": "Be on diet"
+  },
+  {
+    "id": 59,
+    "wordES": "Encadenar",
+    "wordPL": "Poprowadzić",
+    "wordEN": "To lead"
+  },
+  {
+    "id": 60,
+    "wordES": "Saltar una chapa",
+    "wordPL": "Ominąć wpinkę",
+    "wordEN": "Skip a quickdraw"
+  },
+  {
+    "id": 61,
+    "wordES": "Alejes",
+    "sentenceES": "Tiene aleje.",
+    "wordPL": "Dalekie przeloty",
+    "wordEN": "Long distances"
+  },
+  {
+    "id": 62,
+    "wordES": "Tomar / beber una cerveza",
+    "wordPL": "Pić piwo",
+    "wordEN": "Drink beer"
+  },
+  {
+    "id": 63,
+    "wordES": "El entrenamiento",
+    "wordPL": "Trening",
+    "wordEN": "Training"
+  },
+  {
+    "id": 64,
+    "wordES": "Calentarse",
+    "wordPL": "Rozgrzewać się",
+    "wordEN": "To worm up"
+  },
+  {
+    "id": 65,
+    "wordES": "Ejercicio",
+    "wordPL": "Ćwiczenie",
+    "wordEN": "Exercise"
+  },
+  {
+    "id": 66,
+    "wordES": "Hacer travesía / trave",
+    "wordPL": "Trawersować",
+    "wordEN": "To travers"
+  },
+  {
+    "id": 67,
+    "wordES": "El cuircuito",
+    "wordPL": "Obwód",
+    "wordEN": "Circuit"
+  },
+  {
+    "id": 68,
+    "wordES": "Abdominales",
+    "wordPL": "Brzuszki",
+    "wordEN": "Sit-ups"
+  },
+  {
+    "id": 69,
+    "wordES": "Ups",
+    "wordPL": "Pompki",
+    "wordEN": "Push"
+  },
+  {
+    "id": 70,
+    "wordES": "Ups",
+    "wordPL": "Podciągnięcia",
+    "wordEN": "Pull"
+  },
+  {
+    "id": 71,
+    "wordES": "El campus",
+    "wordPL": "Kampus",
+    "wordEN": "Cambus board"
+  },
+  {
+    "id": 72,
+    "wordES": "La multipresa",
+    "wordPL": "Chwytotablica",
+    "wordEN": "Hangboard"
+  },
+  {
+    "id": 73,
+    "wordES": "La barra",
+    "wordPL": "Drążek",
+    "wordEN": "Bar"
+  },
+  {
+    "id": 74,
+    "wordES": "Los pesos",
+    "wordPL": "Obciążenie",
+    "wordEN": "Weight"
+  },
+  {
+    "id": 75,
+    "wordES": "Estirarse",
+    "wordPL": "Rozciągać się",
+    "wordEN": "To stretch"
+  },
+  {
+    "id": 76,
+    "wordES": "Las presas",
+    "wordPL": "Chwyty",
+    "wordEN": "Holds"
+  },
+  {
+    "id": 77,
+    "wordES": "La presa",
+    "wordPL": "Chwyt",
+    "wordEN": "Hold / handhold"
+  },
+  {
+    "id": 78,
+    "wordES": "Los pies",
+    "wordPL": "Stopień",
+    "wordEN": "Foothold"
+  },
+  {
+    "id": 79,
+    "wordES": "La fisura / grieta",
+    "wordPL": "Rysa",
+    "wordEN": "Crag"
+  },
+  {
+    "id": 80,
+    "wordES": "La regleta / ñapa",
+    "wordPL": "Krawądka",
+    "wordEN": "Crimp"
+  },
+  {
+    "id": 81,
+    "wordES": "El lateral",
+    "wordPL": "Odciąg",
+    "wordEN": "Side pull"
+  },
+  {
+    "id": 82,
+    "wordES": "La pinza",
+    "wordPL": "Ścisk",
+    "wordEN": "Pinch"
+  },
+  {
+    "id": 83,
+    "wordES": "Invertido",
+    "wordPL": "Podchwyt",
+    "wordEN": "Undercling / undercut"
+  },
+  {
+    "id": 84,
+    "wordES": "El hombro",
+    "wordPL": "Plecki",
+    "wordEN": "Gaston"
+  },
+  {
+    "id": 85,
+    "wordES": "El romo",
+    "wordPL": "Oblak",
+    "wordEN": "Sloper"
+  },
+  {
+    "id": 86,
+    "wordES": "Adherencia",
+    "wordPL": "Tarcie",
+    "wordEN": "Friction"
+  },
+  {
+    "id": 87,
+    "wordES": "Hay tacto",
+    "wordPL": "Jest dobre tarcie",
+    "wordEN": "The friction is good"
+  },
+  {
+    "id": 88,
+    "wordES": "Resbala mucho",
+    "wordPL": "Jest słabe tarcie",
+    "wordEN": "There is no friction"
+  },
+  {
+    "id": 89,
+    "wordES": "Sobado",
+    "wordPL": "Śliski",
+    "wordEN": "Slippery"
+  },
+  {
+    "id": 90,
+    "wordES": "Mojado",
+    "wordPL": "Mokry",
+    "wordEN": "Wet"
+  },
+  {
+    "id": 91,
+    "wordES": "Aprieta!",
+    "wordPL": "Ciśnij!",
+    "wordEN": "Go for it!"
+  },
+  {
+    "id": 92,
+    "wordES": "Venga!",
+    "wordPL": "Dawaj!",
+    "wordEN": "Come on!"
+  },
+  {
+    "id": 93,
+    "wordES": "Rapelar",
+    "wordPL": "Zjeżdżać",
+    "wordEN": "To abseil"
+  },
+  {
+    "id": 94,
+    "wordES": "Pilla!",
+    "wordPL": "Wybierz!",
+    "wordEN": "Take!"
+  },
+  {
+    "id": 95,
+    "wordES": "El magnesio",
+    "wordPL": "Magnezja",
+    "wordEN": "Chalk"
+  },
+  {
+    "id": 96,
+    "wordES": "Listo / te tengo",
+    "wordPL": "Asekuruję",
+    "wordEN": "On belay"
+  },
+  {
+    "id": 97,
+    "wordES": "Ir de segundo / ir en polea",
+    "wordPL": "Iść na wędkę",
+    "wordEN": "Climb top-rope"
+  },
+  {
+    "id": 98,
+    "wordES": "Los fisureros / empotradores",
+    "wordPL": "Kości",
+    "wordEN": "Nuts"
+  },
+  {
+    "id": 99,
+    "wordES": "Escalada clásica",
+    "wordPL": "Trad",
+    "wordEN": "Traditional climbing / trad"
+  },
+  {
+    "id": 100,
+    "wordES": "Dame cuerda!",
+    "wordPL": "Daj linę!",
+    "wordEN": "Give slack!"
+  },
+  {
+    "id": 101,
+    "wordES": "Cuerda!",
+    "wordPL": "Lina!",
+    "wordEN": "Rope!"
+  },
+  {
+    "id": 102,
+    "wordES": "El crashpad / la colchoneta",
+    "wordPL": "Crashpad / materac",
+    "wordEN": "Crashpad"
+  },
+  {
+    "id": 103,
+    "wordES": "La caliza",
+    "wordPL": "Wapień",
+    "wordEN": "Limestone"
+  },
+  {
+    "id": 104,
+    "wordES": "La arenisca",
+    "wordPL": "Piaskowiec",
+    "wordEN": "Sandstone"
   }
 ]

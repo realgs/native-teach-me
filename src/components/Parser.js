@@ -9,23 +9,21 @@ export default class Parses extends React.Component {
     this.addMissingDot = this.addMissingDot.bind(this);
     this.capitalize = this.capitalize.bind(this);
     this.state = {
-      spanishOrder: 0,
-      polishOrder: 2,
+      spanishOrder: 2,
+      polishOrder: 0,
       englishOrder: 1,
       possibleEndings: ['?', '!', '.'],
-      currentId: undefined,
+      currentId: 0,
       words: `
-        wspinaczka	-climbing	-la escalada
-        chodzić po górach	-to hike	-hacer senderismo
-        alpinizm / himalaizm	-mountaineering	-alpinismo / himalaismo
-        wspinaczka sportowa	-sport climbing	-escalada deportiva
-        czasówka	-speed climbing	-escalada de velocidad
-        solówka	-free solo climbing	-solo integral
+
       `
     };
   }
   componentDidMount() {
-    this.loadData(this.parseData);
+    if ( this.state.words && this.state.words.trim().length > 0){
+      this.loadData(this.parseData);
+    }
+
   }
   loadData(callback) {
     try {

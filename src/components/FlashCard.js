@@ -19,7 +19,7 @@ export default class FlashCard extends React.Component {
   }
   componentDidMount() {
     try {
-      if (words) {
+      if (words && words.length > 0) {
         const word = words[Math.floor(Math.random() * words.length)];
 
         this.setState({
