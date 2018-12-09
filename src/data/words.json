@@ -414,15 +414,15 @@
   },
   {
     "id": 69,
-    "wordES": "Ups",
+    "wordES": "Las flexiónes",
     "wordPL": "Pompki",
-    "wordEN": "Push"
+    "wordEN": "Push-ups"
   },
   {
     "id": 70,
-    "wordES": "Ups",
+    "wordES": "Las dominadas",
     "wordPL": "Podciągnięcia",
-    "wordEN": "Pull"
+    "wordEN": "Pull-ups"
   },
   {
     "id": 71,
@@ -627,5 +627,341 @@
     "wordES": "La arenisca",
     "wordPL": "Piaskowiec",
     "wordEN": "Sandstone"
+  },
+  {
+    "id": 105,
+    "wordES": "El callo",
+    "sentenceES": "Tengo un callo en mi pierna de andar demasiado.",
+    "wordPL": "Odcisk",
+    "sentencePL": "Mam odcisk na stopie od tego chodzenia.",
+    "wordEN": "Corn",
+    "sentenceEN": "I have a corn on my foot from walking too much."
+  },
+  {
+    "id": 106,
+    "wordES": "El pulgar",
+    "sentenceES": "Tienes que usar el pulgar en esta presa.",
+    "wordPL": "Kciuk",
+    "sentencePL": "Musisz użyć kciuka na tym chwycie.",
+    "wordEN": "Thumb",
+    "sentenceEN": "You have to use the thumb on this grip."
+  },
+  {
+    "id": 107,
+    "wordES": "El indice",
+    "sentenceES": "Este agujero solo cabe el indice.",
+    "wordPL": "Palec wskazujący",
+    "sentencePL": "Ta dziurka mieści tylko palec wskazujący.",
+    "wordEN": "Index finger",
+    "sentenceEN": "Only the index finger fits in this pocket."
+  },
+  {
+    "id": 108,
+    "wordES": "El corazón / dedo medio",
+    "sentenceES": "El dedo corazón solemos utilizar para expresar emociones pero vale mejor para escalar.",
+    "wordPL": "Palec środkowy",
+    "sentencePL": "Często używamy środkowego palca do wyrażania emocji ale lepiej nadaje się do wspinaczki.",
+    "wordEN": "Middle finger",
+    "sentenceEN": "We often use the middle finger to express the emotions but it works better in climbing."
+  },
+  {
+    "id": 109,
+    "wordES": "El anular",
+    "wordPL": "Palec serdeczny",
+    "wordEN": "Ring finger"
+  },
+  {
+    "id": 110,
+    "wordES": "El menique",
+    "wordPL": "Mały palec",
+    "wordEN": "Little finger, pinky"
+  },
+  {
+    "id": 111,
+    "wordES": "La palma",
+    "wordPL": "Dłoń",
+    "wordEN": "Hand"
+  },
+  {
+    "id": 112,
+    "wordES": "La muñeca",
+    "sentenceES": "Me duele la muñeca.",
+    "wordPL": "Nadgarstek",
+    "sentencePL": "Boli mnie nadgarstek.",
+    "wordEN": "Wrist",
+    "sentenceEN": "I have a pain in my wrist."
+  },
+  {
+    "id": 113,
+    "wordES": "Las agujetas",
+    "sentenceES": "Tengo agujetas desde ayer.",
+    "wordPL": "Zakwasy",
+    "sentencePL": "Mam zakwasy po wczoraj.",
+    "wordEN": "Sore",
+    "sentenceEN": "I have muscle sores from yesterday."
+  },
+  {
+    "id": 114,
+    "wordES": "Antebrazo",
+    "sentenceES": "No tires tanto de antebrazos.",
+    "wordPL": "Przedramię",
+    "sentencePL": "Nie ciągnij tak z przedramion/rąk.",
+    "wordEN": "Forearm",
+    "sentenceEN": "Don’t use your forearms so much."
+  },
+  {
+    "id": 115,
+    "wordES": "Asegurar",
+    "sentenceES": "Mejor yo voy a asegurarle en esta vía.",
+    "wordPL": "Asekurować",
+    "sentencePL": "Lepiej żebym to ja asekurował go na tej drodze.",
+    "wordEN": "Belay",
+    "sentenceEN": "It’s better if I am going to belay him on this route."
+  },
+  {
+    "id": 116,
+    "wordES": "Chapar",
+    "sentenceES": "Chápalo, que ya estas demasiado alto!",
+    "wordPL": "Wpinać się",
+    "sentencePL": "Wepnij się, już jesteś za wysoko!",
+    "wordEN": "Clip in",
+    "sentenceEN": "Clip it in, you are already too high!"
+  },
+  {
+    "id": 117,
+    "wordES": "Pillar",
+    "sentenceES": "Pillame, que ya estoy agotado / cansado.",
+    "wordPL": "Złapać, dać blok",
+    "sentencePL": "Złap mnie bo już jestem zmęczony.",
+    "wordEN": "English here",
+    "sentenceEN": "?Catch me, I’m really tired."
+  },
+  {
+    "id": 118,
+    "wordES": "El romo",
+    "sentenceES": "Junta los manos en el romo.",
+    "wordPL": "Oblak",
+    "sentencePL": "Dołóż do oblaka.",
+    "wordEN": "Sloper",
+    "sentenceEN": "Match your hands on a sloper."
+  },
+  {
+    "id": 119,
+    "wordES": "Juntar manos",
+    "sentenceES": "Junta los manos en el romo.",
+    "wordPL": "Złącz ręce, dołóż",
+    "sentencePL": "Dołóż do oblaka.",
+    "wordEN": "Match hands",
+    "sentenceEN": "Match your hands on a sloper."
+  },
+  {
+    "id": 120,
+    "wordES": "Jarra, cazo",
+    "sentenceES": "Jarra es un tipo de agarre que es perfecto para reposar.",
+    "wordPL": "Klama",
+    "sentencePL": "Klama jest idealnym typem chwytu na resta.",
+    "wordEN": "Jug, bucket",
+    "sentenceEN": "A jug a type of hold that is perfect to rest on."
+  },
+  {
+    "id": 121,
+    "wordES": "Pinza",
+    "wordPL": "Ścisk",
+    "wordEN": "Pinch"
+  },
+  {
+    "id": 122,
+    "wordES": "La regleta",
+    "wordPL": "Krawądka",
+    "wordEN": "Crimp"
+  },
+  {
+    "id": 123,
+    "wordES": "El invertido",
+    "wordPL": "Podchwyt",
+    "wordEN": "Undercling"
+  },
+  {
+    "id": 124,
+    "wordES": "El lateral",
+    "wordPL": "Odciąg",
+    "wordEN": "Sidepull"
+  },
+  {
+    "id": 125,
+    "wordES": "La presa",
+    "sentenceES": "Esta presa es muy buena.",
+    "wordPL": "Chwyt",
+    "sentencePL": "Ten chwyt jest bardzo dobry.",
+    "wordEN": "Hold",
+    "sentenceEN": "This hold is really good."
+  },
+  {
+    "id": 126,
+    "wordES": "La presa buena",
+    "sentenceES": "En los desplomes suelen haber presas buenas.",
+    "wordPL": "Dobry chwyt",
+    "sentencePL": "W przewieszeniach zwykle są dobre chwyty.",
+    "wordEN": "A good hold",
+    "sentenceEN": "On overhangs there usually are good holds."
+  },
+  {
+    "id": 127,
+    "wordES": "El agujero",
+    "sentenceES": "Monodedo, bidedo, tridedo.",
+    "wordPL": "Dziurka",
+    "sentencePL": "Fucker, dwójka, trójka .",
+    "wordEN": "Pocket",
+    "sentenceEN": "One, two, three finger pocket."
+  },
+  {
+    "id": 128,
+    "wordES": "Canto",
+    "sentenceES": "Hay muchos cantos buenos por alli.",
+    "wordPL": "Kant, klama",
+    "sentencePL": "Tam jest dużo klam.",
+    "wordEN": "Edge",
+    "sentenceEN": "There are a lot of good edges."
+  },
+  {
+    "id": 129,
+    "wordES": "La microrregleta",
+    "wordPL": "Mała krawądka",
+    "wordEN": "Small crimp, rippel"
+  },
+  {
+    "id": 130,
+    "wordES": "La chorrera",
+    "wordPL": "Tufa",
+    "wordEN": "Tufa"
+  },
+  {
+    "id": 131,
+    "wordES": "El empotre",
+    "wordPL": "Klin, klinować",
+    "wordEN": "Jam"
+  },
+  {
+    "id": 132,
+    "wordES": "Presa en extensión",
+    "wordPL": "Otwarty chwyt",
+    "wordEN": "Open-hand grip"
+  },
+  {
+    "id": 133,
+    "wordES": "La puerta",
+    "wordPL": "Pozycja, która cię otwiera na drugą stronę",
+    "wordEN": "Barn door"
+  },
+  {
+    "id": 134,
+    "wordES": "Posición de la rana",
+    "sentenceES": "La posición de la rana es la mas popular entre principiantes.",
+    "wordPL": "Iść frontem / na żabę",
+    "sentencePL": "Technika wchodzenia na żabę jest popularna wśród początkujących.",
+    "wordEN": "Frogging",
+    "sentenceEN": "Frogging is the most common technique among the beginners."
+  },
+  {
+    "id": 135,
+    "wordES": "Hacer la bicicleta",
+    "wordPL": "Pozycja boczna / wkręcanie się",
+    "wordEN": "Dropknee / egyptian"
+  },
+  {
+    "id": 136,
+    "wordES": "El empotre de rodilla",
+    "sentenceES": "El empotre de rodilla ayuda mucho en desplomes.",
+    "wordPL": "Klinowanie kolana",
+    "sentencePL": "Klinowanie kolana pomaga znacząco na przewieszeniach.",
+    "wordEN": "Kneebar, egyptian",
+    "sentenceEN": "Kneebar is crucial in overhangs."
+  },
+  {
+    "id": 137,
+    "wordES": "Escalar en oposición",
+    "wordPL": "Iść w zacięciu",
+    "wordEN": "To steam"
+  },
+  {
+    "id": 138,
+    "wordES": "Los movimientos de compresión",
+    "wordPL": "Kompresja",
+    "wordEN": "Compression moves"
+  },
+  {
+    "id": 139,
+    "wordES": "Bavaresa",
+    "wordPL": "Złapać na odciąg",
+    "wordEN": "Layback, lieback"
+  },
+  {
+    "id": 140,
+    "wordES": "Hacer la bandera",
+    "sentenceES": "Tienes que hacer la bandera para equilibrar el peso del cuerpo.",
+    "wordPL": "Robić flagę",
+    "sentencePL": "Musisz zrobić flagę by balansować masą ciała.",
+    "wordEN": "To flag",
+    "sentenceEN": "You have to flag in order to balance your body weight."
+  },
+  {
+    "id": 141,
+    "wordES": "Montarse sobre el pie",
+    "wordPL": "Wyjść z wysokiego stopnia",
+    "wordEN": "Rockover"
+  },
+  {
+    "id": 142,
+    "wordES": "Pie-mano",
+    "wordPL": "Dołożyć nogę do ręki",
+    "wordEN": "Hand-foot matching"
+  },
+  {
+    "id": 143,
+    "wordES": "Mantelar",
+    "wordPL": "Mantlować",
+    "wordEN": "Mantel"
+  },
+  {
+    "id": 144,
+    "wordES": "Bloquear",
+    "wordPL": "Rest",
+    "wordEN": "Lock-off"
+  },
+  {
+    "id": 145,
+    "wordES": "Escalar en estático",
+    "wordPL": "Wspinaczka statyczna",
+    "wordEN": "Static climbing"
+  },
+  {
+    "id": 146,
+    "wordES": "Escalada dinámica",
+    "wordPL": "Wspinaczka dynamiczna",
+    "wordEN": "Dynamic climbing"
+  },
+  {
+    "id": 147,
+    "wordES": "Movimiento dinámico",
+    "wordPL": "Ruch dynamiczny, walnięcie",
+    "wordEN": "Dynamic, dyno"
+  },
+  {
+    "id": 148,
+    "wordES": "Lancar",
+    "wordPL": "Dyno",
+    "wordEN": "Dyno / double"
+  },
+  {
+    "id": 149,
+    "wordES": "Subir a campus",
+    "wordPL": "Iść na samych łapach",
+    "wordEN": "Campus"
+  },
+  {
+    "id": 150,
+    "wordES": "Yaniro",
+    "wordPL": "Pozycja czwórka",
+    "wordEN": "Figure of four"
   }
 ]
