@@ -38,7 +38,7 @@ export default class FlashCard extends React.Component {
       <div className="wrapper" >
         <div className="content">
           <div className="google__images">
-            <a target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + ` ${this.state.searchKeyword}` + '&tbm=isch'}>Look for images</a>
+            <a rel="noopener" target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + ` ${this.state.searchKeyword}` + '&tbm=isch'}>Look for images</a>
           </div>
           <div className="language">
             <div className="language__definition">
@@ -48,7 +48,7 @@ export default class FlashCard extends React.Component {
               </h1>
               <p className="language__definition__link">
                 (
-                  <a target="_blank" href={'https://www.spanishdict.com/translate/' + this.state.word.wordES}>def</a>
+                  <a rel="noopener" target="_blank" href={'https://www.spanishdict.com/translate/' + this.state.word.wordES}>def</a>
                 )
               </p>
             </div>
@@ -66,7 +66,7 @@ export default class FlashCard extends React.Component {
               </h1>
               <p className="language__definition__link">
                 (
-                  <a target="_blank" href={'https://www.merriam-webster.com/dictionary/' + this.state.word.wordEN}>def</a>
+                  <a rel="noopener" target="_blank" href={'https://www.merriam-webster.com/dictionary/' + this.state.word.wordEN}>def</a>
                 )
               </p>
             </div>
@@ -84,7 +84,7 @@ export default class FlashCard extends React.Component {
               </h1>
               <p className="language__definition__link">
                 (
-                  <a target="_blank" href={'https://www.diki.pl/' + this.state.word.wordPL}>def</a>
+                  <a rel="noopener" target="_blank" href={'https://www.diki.pl/' + this.state.word.wordPL}>def</a>
                 )
               </p>
             </div>
