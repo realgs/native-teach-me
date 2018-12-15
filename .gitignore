@@ -43,3 +43,7 @@ node_modules
 # VScode #
 ###########
 .vscode
+
+# Graphics #
+############
+*.psd
