@@ -19,7 +19,7 @@
   },
   {
     "id": 4,
-    "wordES": "La sscalada deportiva",
+    "wordES": "La escalada deportiva",
     "wordPL": "Wspinaczka sportowa",
     "wordEN": "Sport climbing"
   },
@@ -98,7 +98,7 @@
   {
     "id": 17,
     "wordES": "La placa",
-    "wordPL": "Płytka",
+    "wordPL": "Płytka Stichta / kubek",
     "wordEN": "Stitch plate"
   },
   {
@@ -158,7 +158,7 @@
   {
     "id": 27,
     "wordES": "La cinta de vida",
-    "wordPL": "Auto",
+    "wordPL": "Lonża",
     "wordEN": "Lifeline"
   },
   {
@@ -250,9 +250,9 @@
   },
   {
     "id": 42,
-    "wordES": "Solo",
+    "wordES": "Escalar sin cuerda",
     "wordPL": "Żywcowanie",
-    "wordEN": "Free"
+    "wordEN": "Free-solo"
   },
   {
     "id": 43,
@@ -360,13 +360,13 @@
     "id": 60,
     "wordES": "Saltar una chapa",
     "wordPL": "Ominąć wpinkę",
-    "wordEN": "Skip a quickdraw"
+    "wordEN": "Skip a clip"
   },
   {
     "id": 61,
     "wordES": "Alejes / tiene aleje",
     "wordPL": "Dalekie przeloty",
-    "wordEN": "Long distances"
+    "wordEN": "Huge runouts"
   },
   {
     "id": 62,
@@ -400,7 +400,7 @@
   },
   {
     "id": 67,
-    "wordES": "El cuircuito",
+    "wordES": "El circuito",
     "wordPL": "Obwód",
     "wordEN": "Circuit"
   },
@@ -700,7 +700,7 @@
   },
   {
     "id": 114,
-    "wordES": "Antebrazo",
+    "wordES": "El antebrazo",
     "sentenceES": "No tires tanto de antebrazos.",
     "wordPL": "Przedramię",
     "sentencePL": "Nie ciągnij tak z przedramion.",
@@ -808,7 +808,7 @@
     "wordES": "El agujero",
     "sentenceES": "Monodedo, bidedo, tridedo.",
     "wordPL": "Dziurka",
-    "sentencePL": "Fucker, dwójka, trójka .",
+    "sentencePL": "Fucker, dwójka, trójka.",
     "wordEN": "Pocket",
     "sentenceEN": "One, two, three finger pocket."
   },
@@ -946,9 +946,9 @@
   },
   {
     "id": 148,
-    "wordES": "Lanzar",
-    "wordPL": "Skoczyć / rzucić się",
-    "wordEN": "Dyno / double-dyno"
+    "wordES": "Lanzar / lanzo",
+    "wordPL": "Skoczyć / skok",
+    "wordEN": "Double-dyno"
   },
   {
     "id": 149,
@@ -975,7 +975,7 @@
     "id": 152,
     "wordES": "Estoy seguro",
     "wordPL": "Mam auto",
-    "wordEN": "Off belay"
+    "wordEN": "Off belay / safe"
   },
   {
     "id": 153,
@@ -994,5 +994,11 @@
     "wordES": "Granito",
     "wordPL": "Granit",
     "wordEN": "Granite"
+  },
+  {
+    "id": 156,
+    "wordES": "El parabolt",
+    "wordPL": "Plakietka",
+    "wordEN": "Parabolt"
   }
 ]

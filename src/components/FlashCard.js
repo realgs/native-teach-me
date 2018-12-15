@@ -5,6 +5,7 @@ export default class FlashCard extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
+      searchKeyword: "escalada",
       backgroundColors: ['#518ff5', '#673ab7', '#27a768', '#de5347', '#821510'],
       word: {
         "id": 0,
@@ -37,7 +38,7 @@ export default class FlashCard extends React.Component {
       <div className="wrapper" >
         <div className="content">
           <div className="google__images">
-            <a target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + '&tbm=isch'}>Look for images</a>
+            <a target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + ` ${this.state.searchKeyword}` + '&tbm=isch'}>Look for images</a>
           </div>
           <div className="language">
             <div className="language__definition">
