@@ -21,7 +21,7 @@ export default class FlashCard extends React.Component {
     try {
       if (words) {
         const word = words[Math.floor(Math.random() * words.length)];
-
+        //const word = words[15];
         this.setState({
           word
         });
@@ -37,7 +37,7 @@ export default class FlashCard extends React.Component {
       <div className="wrapper" >
         <div className="content">
           <div className="google__images">
-            <a target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + '&tbm=isch'}>Look for images</a>
+            <a target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + '&tbm=isch'}>Look up at Google Images</a>
           </div>
           <div className="language">
             <div className="language__definition">
