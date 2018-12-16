@@ -10,12 +10,13 @@
    color: white;
  }
 
- button {
-   cursor: pointer;
- }
-
- button:disabled {
-   cursor: default;
+ .wrapper {
+   height: 100vh;
+   padding: $xs-size;
+   display: flex;
+   flex-direction: column;
+   justify-content: start-flex;
+   align-items: center;
  }
 
  a {
