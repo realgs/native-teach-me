@@ -1,11 +1,11 @@
  html {
-   font-size: 100%;
+   font-size: calc(9px + 7 * ((100vw - 320px) / 680));
  }
 
  body {
    background: gray;
-   font-family: 'Lato', Helvetica, Arial, sans-serif;
    font-size: $m-size;
+   font-family: 'Lato', Helvetica, Arial, sans-serif;
    margin: 0;
    color: white;
  }
@@ -23,9 +23,17 @@
    text-decoration: none;
  }
 
- a:active, a:hover {
+ a:active,
+ a:hover {
    border-bottom: 1px solid white;
  }
+
  h1 {
    margin: 0;
+ }
+
+ @media screen and (min-width: 1000px) {
+   html {
+     font-size: 16px;
+   }
  }
