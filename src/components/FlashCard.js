@@ -33,69 +33,66 @@ export default class FlashCard extends React.Component {
       console.log('Error loading the list of words: ' + e);
     }
   }
+  componentDidUpdate(prevProps, prevState) {
+  }
   render() {
     return (
-      <div className="wrapper" >
-        <div className="content">
-          <div className="google__images">
-            <a rel="noopener" target="_blank" href={'https://www.google.com/search?q=' + this.state.word.wordES + ` ${this.state.searchKeyword}` + '&tbm=isch'}>Look up at Google Images</a>
+      <div className="content">
+        <div className="language">
+          <div className="language__definition">
+            <img className="flag flag__es" src="./images/flag-es.png" alt="spanish flag" />
+            <h1 id="wordES" className="language__definition__word typewriter">
+              {this.state.word.wordES}
+            </h1>
+            <p className="language__definition__link">
+              (
+                  <a target="_blank" href={'https://www.spanishdict.com/translate/' + this.state.word.wordES} rel="noopener">def</a>
+              )
+              </p>
           </div>
-          <div className="language">
-            <div className="language__definition">
-              <img className="flag flag__es" src="./images/flag-es.png" alt="spanish flag" />
-              <h1 className="language__definition__word typewriter">
-                {this.state.word.wordES}
-              </h1>
-              <p className="language__definition__link">
-                (
-                  <a rel="noopener" target="_blank" href={'https://www.spanishdict.com/translate/' + this.state.word.wordES}>def</a>
-                )
-              </p>
-            </div>
-            <div className="language__sentence">
-              <p className="temp">
-                {this.state.word.sentenceES}
-              </p>
-            </div>
-          </div>
-          <div className="language">
-            <div className="language__definition">
-              <img className="flag flag__en" src="./images/flag-en.png" alt="english flag" />
-              <h1 className="language__definition__word typewriter">
-                {this.state.word.wordEN}
-              </h1>
-              <p className="language__definition__link">
-                (
-                  <a rel="noopener" target="_blank" href={'https://www.merriam-webster.com/dictionary/' + this.state.word.wordEN}>def</a>
-                )
-              </p>
-            </div>
-            <div className="language__sentence">
-              <p className="temp">
-                {this.state.word.sentenceEN}
-              </p>
-            </div>
-          </div>
-          <div className="language">
-            <div className="language__definition">
-              <img className="flag flag__pl" src="./images/flag-pl.png" />
-              <h1 id="wordPL" className="language__definition__word typewriter">
-                {this.state.word.wordPL}
-              </h1>
-              <p className="language__definition__link">
-                (
-                  <a rel="noopener" target="_blank" href={'https://www.diki.pl/' + this.state.word.wordPL}>def</a>
-                )
-              </p>
-            </div>
-            <div className="language__sentence">
-              <p className="temp">
-                {this.state.word.sentencePL}
-              </p>
-            </div>
+          <div className="language__sentence">
+            <p className="temp">
+              {this.state.word.sentenceES}
+            </p>
           </div>
         </div>
-      </div >
+        <div className="language">
+          <div className="language__definition">
+            <img className="flag flag__en" src="./images/flag-en.png" alt="english flag" />
+            <h1 className="language__definition__word typewriter">
+              {this.state.word.wordEN}
+            </h1>
+            <p className="language__definition__link">
+              (
+                  <a target="_blank" href={'https://www.merriam-webster.com/dictionary/' + this.state.word.wordEN} rel="noopener">def</a>
+              )
+              </p>
+          </div>
+          <div className="language__sentence">
+            <p className="temp">
+              {this.state.word.sentenceEN}
+            </p>
+          </div>
+        </div>
+        <div className="language">
+          <div className="language__definition">
+            <img className="flag flag__pl" src="./images/flag-pl.png" />
+            <h1 className="language__definition__word typewriter">
+              {this.state.word.wordPL}
+            </h1>
+            <p className="language__definition__link">
+              (
+                  <a target="_blank" href={'https://www.diki.pl/' + this.state.word.wordPL} rel="noopener">def</a>
+              )
+              </p>
+          </div>
+          <div className="language__sentence">
+            <p className="temp">
+              {this.state.word.sentencePL}
+            </p>
+          </div>
+        </div>
+      </div>
     );
   }
 }

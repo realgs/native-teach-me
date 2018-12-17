@@ -1,5 +1,5 @@
 .google {
-  padding-top: $m-size;
+  margin-top: $xs-size;
   height: 20vh;
   width: 100%;
   display: flex;
@@ -8,14 +8,49 @@
 }
 
 .google__logo {
-  height: 75%;
+  height: calc(100% - 30px);
+  max-height: 200px;
+  min-height: $xl-size;
 }
 
-.google__searchbox {
-  height: 25%;
+.google__search {
+  height: 30px;
   width: 90%;
   max-width: 584px;
   background: white;
-  border-radius: 2px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  color: $gray;
+  font-size: $s-size;
+  display: flex;
+  justify-content: center;
+}
+
+.google__search__box {
+  height: 30px;
+  width: calc(100% - 24px);
+  margin: 0;
+  max-width: 560px;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  color: $gray;
+  font-size: $s-size;
+  padding-left: $xxs-size;
+}
+
+.google__search__camera {
+  height: 30px;
+  border: none;
+  outline: none;
+  padding: 3px;
+  border-radius: 8px;
+}
+
+@media screen and (min-width: $tablet-breakpoint) {
+  .google {
+    margin-top: $l-size;
+  }
 }

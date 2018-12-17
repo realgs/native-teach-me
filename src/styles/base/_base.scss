@@ -1,5 +1,12 @@
  html {
    font-size: calc(9px + 7 * ((100vw - 320px) / 680));
+   box-sizing: border-box;
+ }
+
+ *,
+ *:before,
+ *:after {
+   box-sizing: inherit;
  }
 
  body {
@@ -10,12 +17,13 @@
    color: white;
  }
 
- button {
-   cursor: pointer;
- }
-
- button:disabled {
-   cursor: default;
+ .wrapper {
+   height: 100vh;
+   padding: $xs-size;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
  }
 
  a {

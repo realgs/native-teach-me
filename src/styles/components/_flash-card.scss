@@ -1,18 +1,9 @@
-.wrapper {
-  height: 80vh;
-  padding: $xs-size;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.google__images {
-  text-align: center;
-}
-
-.language {
-  margin: $m-size 0;
+.content {
+ height: 80vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: flex-start;
+ padding-top: $xl-size;
 }
 
 .language__definition {
