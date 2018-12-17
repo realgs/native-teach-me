@@ -1,9 +1,9 @@
 .content {
- height: 70vh;
-}
-
-.language {
-  margin: $m-size 0;
+ height: 80vh;
+ display: flex;
+ flex-direction: column;
+ justify-content: flex-start;
+ padding-top: $xl-size;
 }
 
 .language__definition {

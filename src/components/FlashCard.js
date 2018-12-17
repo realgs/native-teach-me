@@ -32,18 +32,20 @@ export default class FlashCard extends React.Component {
       console.log('Error loading the list of words: ' + e);
     }
   }
+  componentDidUpdate(prevProps, prevState) {
+  }
   render() {
     return (
       <div className="content">
         <div className="language">
           <div className="language__definition">
             <img className="flag flag__es" src="./images/flag-es.png" alt="spanish flag" />
-            <h1 className="language__definition__word typewriter">
+            <h1 id="wordES" className="language__definition__word typewriter">
               {this.state.word.wordES}
             </h1>
             <p className="language__definition__link">
               (
-                  <a target="_blank" href={'https://www.spanishdict.com/translate/' + this.state.word.wordES}>def</a>
+                  <a target="_blank" href={'https://www.spanishdict.com/translate/' + this.state.word.wordES} rel="noopener">def</a>
               )
               </p>
           </div>
@@ -61,7 +63,7 @@ export default class FlashCard extends React.Component {
             </h1>
             <p className="language__definition__link">
               (
-                  <a target="_blank" href={'https://www.merriam-webster.com/dictionary/' + this.state.word.wordEN}>def</a>
+                  <a target="_blank" href={'https://www.merriam-webster.com/dictionary/' + this.state.word.wordEN} rel="noopener">def</a>
               )
               </p>
           </div>
@@ -79,7 +81,7 @@ export default class FlashCard extends React.Component {
             </h1>
             <p className="language__definition__link">
               (
-                  <a target="_blank" href={'https://www.diki.pl/' + this.state.word.wordPL}>def</a>
+                  <a target="_blank" href={'https://www.diki.pl/' + this.state.word.wordPL} rel="noopener">def</a>
               )
               </p>
           </div>
