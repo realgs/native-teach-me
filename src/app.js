@@ -8,7 +8,7 @@ import GoogleSearch from './components/GoogleSearch';
 
 const jsx = (
   <div className="wrapper">
-    <GoogleSearch />
+    <GoogleSearch searchPhrase="el hombro climbing" />
     <FlashCard />
     <Parser />
   </div>
