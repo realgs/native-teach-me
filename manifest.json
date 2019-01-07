@@ -1,11 +1,11 @@
 {
-  "name": "justES",
+  "name": "native-teach-me",
   "version": "0.3",
   "author": "Mateusz Magda",
   "manifest_version": 2,
   "browser_action": {
      "default_icon": "images/icon-48.png",
-     "default_title": "justES"
+     "default_title": "native-teach-me"
   },
   "icons": { "16": "images/icon-16.png",
            "48": "images/icon-48.png",
