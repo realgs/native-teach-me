@@ -8,7 +8,7 @@
     "serve": "live-server public/",
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
-    "dev-server": "webpack-dev-server",
+    "dev-server": "webpack-dev-server --mode development",
     "test": "jest"
   },
   "dependencies": {
