@@ -38,8 +38,11 @@
   {
     "id": 7,
     "wordES": "El psicobloc",
-    "wordPL": "Wspinanie solo nad wodą",
-    "wordEN": "Deep Water Solo"
+    "wordPL": "DWS / Wspinanie solo nad wodą",
+    "wordEN": "Deep Water Solo",
+    "sentenceES": "Has estado en Mallorca? Es el mejor lugar para el psicobloc!",
+    "sentencePL": "Byłeś na Majorce? Tam jest najlepsze DWS!",
+    "sentenceEN": "Have you been to Mallorca? It's the best place for DWS!"
   },
   {
     "id": 8,
@@ -129,7 +132,10 @@
     "id": 22,
     "wordES": "La cinta expréss / cinta",
     "wordPL": "Ekspres",
-    "wordEN": "Quickdraw"
+    "wordEN": "Quickdraw",
+    "sentenceES": "¿Cuantas cintas necesito en esta vía?",
+    "sentencePL": "Ile ekspresów potrzebuję na tej drodze?",
+    "sentenceEN": "How many quickdraws do I need on this route?"
   },
   {
     "id": 23,
@@ -177,7 +183,10 @@
     "id": 30,
     "wordES": "El casco",
     "wordPL": "Kask",
-    "wordEN": "Helmet"
+    "wordEN": "Helmet",
+    "sentenceES": "Es un sector nuevo. Hay muchas piedras sueltas y necesitas un casco.",
+    "sentencePL": "To nowy sektor, jest krucho i przyda się kask.",
+    "sentenceEN": "That's a new sector. There are a lot of loose rock, you need a helmet."
   },
   {
     "id": 31,
@@ -246,7 +255,10 @@
     "id": 41,
     "wordES": "Hacer trampa",
     "wordPL": "Oszukiwać",
-    "wordEN": "To cheat"
+    "wordEN": "To cheat",
+    "sentenceES": "¡No hagas trampa! Estas demasiado lejos de la vía.",
+    "sentencePL": "Nie oszukuj! Jesteś za daleko od linii drogi.",
+    "sentenceEN": "Don’t cheat! You are too far from the line."
   },
   {
     "id": 42,
@@ -935,8 +947,11 @@
   {
     "id": 145,
     "wordES": "Escalar en estático",
-    "wordPL": "Wspinaczka statyczna",
-    "wordEN": "Static climbing"
+    "wordPL": "Wspinaczka statyczna / statyczne ruchy",
+    "wordEN": "Static climbing",
+    "sentenceES": "Esta vía es muy técnica, es una escalada estática.",
+    "sentencePL": "Ta droga jest bardzo techniczna, to statyczne wspinanie.",
+    "sentenceEN": "This rout is very technical, it's a static climbing."
   },
   {
     "id": 146,
