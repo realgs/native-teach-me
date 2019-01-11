@@ -328,7 +328,7 @@
   },
   {
     "id": 55,
-    "wordES": "Abrir una vía",
+    "wordES": "Poner las cintas",
     "wordPL": "Wieszać ekspresy",
     "wordEN": "Put the quickdraws on"
   },
@@ -402,7 +402,10 @@
     "id": 67,
     "wordES": "El circuito",
     "wordPL": "Obwód",
-    "wordEN": "Circuit"
+    "wordEN": "Circuit",
+    "sentenceES": "Ven, te voy a mostrar un circuito estupendo en el roco.",
+    "sentencePL": "Chodź, pokażę ci super obwód na ścianie.",
+    "sentenceEN": "Come, I will show you an awesome circuit at the gym."
   },
   {
     "id": 68,
@@ -450,7 +453,10 @@
     "id": 75,
     "wordES": "Estirarse",
     "wordPL": "Rozciągać się",
-    "wordEN": "To stretch"
+    "wordEN": "To stretch",
+    "sentenceES": "Tienes que ser estirado / flexible para hacer este movimiento.",
+    "sentencePL": "Musisz być rozciągnięty/a, żeby zrobić ten ruch.",
+    "sentenceEN": "You have to be stretched / flexible to make this move."
   },
   {
     "id": 76,
@@ -503,7 +509,7 @@
   {
     "id": 84,
     "wordES": "El hombro",
-    "wordPL": "Plecki",
+    "wordPL": "Chwyt w plecy",
     "wordEN": "Gaston"
   },
   {
@@ -695,7 +701,7 @@
     "sentenceES": "Tengo agujetas desde ayer.",
     "wordPL": "Zakwasy",
     "sentencePL": "Mam zakwasy po wczoraj.",
-    "wordEN": "Sore",
+    "wordEN": "Muscle sores",
     "sentenceEN": "I have muscle sores from yesterday."
   },
   {
@@ -890,7 +896,7 @@
   {
     "id": 139,
     "wordES": "Bavaresa",
-    "wordPL": "Złapać na odciąg",
+    "wordPL": "Na dulfra (od nazw. Dülfer) / pozycja na odciąg",
     "wordEN": "Layback, lieback"
   },
   {
@@ -980,7 +986,7 @@
   {
     "id": 153,
     "wordES": "A vista",
-    "wordPL": "Sajtem / sightem",
+    "wordPL": "W pierwszej próbie / onsightem",
     "wordEN": "Onsight"
   },
   {
