@@ -1,0 +1,50 @@
+.content {
+  height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding-top: $xl-size;
+
+  &__row {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    :last-of-type {
+      margin-top: 12px;
+    }
+  }
+}
+
+.product {
+  display: flex;
+  flex-direction: column;
+  margin: 0 8px;
+
+  &__image {
+    border-radius: 2px;
+  }
+
+  &__price {}
+}
+
+.product-price {
+  margin-right: 8px;
+  font-size: $uni-size;
+  color: $gray;
+  &--regular {
+  }
+  &--promo {
+    color: $promo;
+  }
+  &--old {
+    color: $light-gray;
+    text-decoration: line-through;
+  }
+}
+
+.product-title {
+  font-size: $xs-size;
+}
+
+@media screen and (min-width: $tablet-breakpoint) {}

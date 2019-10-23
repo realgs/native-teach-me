@@ -1,0 +1,30 @@
+[
+  {
+    "imageUrl": "//lb0.dstatic.pl/images/product-thumb/73358969-sukienka-reserved-z-krotkim-rekawem-asymetryczna.jpg",
+    "title": "Piękna sukienka",
+    discountPercent: 50,
+    oldPrice: 100,
+    price: 49.99
+  },
+  {
+    "imageUrl": "//lb0.dstatic.pl/images/product-thumb/73358969-sukienka-reserved-z-krotkim-rekawem-asymetryczna.jpg",
+    "title": "Piękna sukienka",
+    discountPercent: 50,
+    oldPrice: 200,
+    price: 99.99
+  },
+  {
+    "imageUrl": "//lb0.dstatic.pl/images/product-thumb/73358969-sukienka-reserved-z-krotkim-rekawem-asymetryczna.jpg",
+    "title": "Piękna sukienka",
+    discountPercent: 30,
+    oldPrice: 150,
+    price: 99.99
+  },
+  {
+    "imageUrl": "//lb0.dstatic.pl/images/product-thumb/73358969-sukienka-reserved-z-krotkim-rekawem-asymetryczna.jpg",
+    "title": "Piękna sukienka",
+    discountPercent: 35,
+    oldPrice: 200,
+    price: 129.99
+  },
+]

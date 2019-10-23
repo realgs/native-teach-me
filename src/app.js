@@ -2,15 +2,13 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import 'normalize.css/normalize.css'
 import './styles/styles.scss';
-import FlashCard from './components/FlashCard';
-import Parser from './components/Parser';
-import GoogleSearch from './components/GoogleSearch';
+import Products from './components/Products';
+import Search from './components/Search';
 
 const jsx = (
   <div className="wrapper">
-    <GoogleSearch searchPhrase="el hombro climbing" />
-    <FlashCard />
-    <Parser />
+    <Search />
+    <Products />
   </div>
 );
 
