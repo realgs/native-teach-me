@@ -22,7 +22,7 @@
     "extract-text-webpack-plugin": "^4.0.0-beta.0",
     "jest": "20.0.4",
     "live-server": "1.2.1",
-    "node-sass": "4.5.3",
+    "node-sass": "4.13.1",
     "normalize.css": "7.0.0",
     "react": "16.0.0",
     "react-dom": "16.0.1",
